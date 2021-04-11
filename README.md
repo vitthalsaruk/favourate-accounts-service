@@ -1,0 +1,1 @@
+# favourate-accounts-service
